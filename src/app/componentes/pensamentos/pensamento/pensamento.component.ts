@@ -7,7 +7,7 @@ import { Component, Input, OnInit } from '@angular/core';
 })
 export class PensamentoComponent implements OnInit {
 
-  @Input() pensamento = {   //agora ela recebe informações do componente pai ListarPensamentos
+  @Input() pensamento : Pensamento  = {   //agora ela recebe informações do componente pai ListarPensamentos
     conteudo: '',
     autoria: '',
     modelo: ''
