@@ -1,34 +1,10 @@
 {
   "pensamentos": [
     {
-      "id": 1,
-      "conteudo": "Que bom que vc veio",
-      "autoria": "Vitor",
-      "modelo": "modelo1"
-    },
-    {
-      "id": 2,
-      "conteudo": "Estudando Angular",
-      "autoria": "Vitor",
-      "modelo": "modelo2"
-    },
-    {
-      "id": 3,
-      "conteudo": "Angular é o melhor'",
-      "autoria": "Vitor",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "Novo pensamento",
-      "autoria": "Teste",
-      "modelo": "modelo2",
-      "id": 4
-    },
-    {
-      "conteudo": "dsadsa",
-      "autoria": "dsadsa",
-      "modelo": "modelo2",
-      "id": 5
+      "conteudo": "Namorar a Nathalia Guedes é bom demais ela é muito cherosa e bonita e engraçada e eu quero beijar o joelho dela meia noite e meia mas não contem pra ela é segredo amo voce meu amor",
+      "autoria": "Vitor Contine",
+      "modelo": "modelo1",
+      "id": 1
     }
   ]
 }

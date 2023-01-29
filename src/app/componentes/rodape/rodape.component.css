@@ -1,6 +1,9 @@
 footer {
-  background-image: url(../../../assets/Imagens_do_curso/fundo-rodape.png);
-  display: grid;
+  background-image: url(../../../assets/Imagens/fundo-rodape.png);
+  display: inline-block;
+  width: 96.66%;
+  bottom: 0;
+  left: 0;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr;
   gap: 0px 0px;
@@ -13,11 +16,6 @@ footer {
 .TextoCopyright {
   justify-self: center;
   grid-area: TextoCopyright;
-}
-
-.LogoRodape {
-  justify-self: center;
-  grid-area: LogoRodape;
 }
 
 footer small {
