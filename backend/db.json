@@ -1,34 +1,16 @@
 {
   "pensamentos": [
     {
-      "conteudo": "Carlinhos tem 3 dedo no pé esquerdo e ele esconde isso de todos",
-      "autoria": "Jere Mias",
+      "conteudo": "Teste 1",
+      "autoria": "Vitor",
       "modelo": "modelo2",
       "id": 1
     },
     {
-      "conteudo": "sdfgfdsfds",
-      "autoria": "fdsfdsfds",
+      "conteudo": "Teste pensamento 2222222222",
+      "autoria": "Vitor Contine",
       "modelo": "modelo2",
-      "id": 3
-    },
-    {
-      "conteudo": "fasfdsfds",
-      "autoria": "fdsfdsf",
-      "modelo": "modelo3",
-      "id": 4
-    },
-    {
-      "conteudo": "fdsfdsfds",
-      "autoria": "fdsfdsfds",
-      "modelo": "modelo2",
-      "id": 5
-    },
-    {
-      "conteudo": "fsdfdsfds",
-      "autoria": "fdsfdsfds",
-      "modelo": "modelo3",
-      "id": 6
+      "id": 2
     }
   ]
 }
